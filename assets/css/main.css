@@ -2172,7 +2172,7 @@ input, select, textarea {
 					outline: 0;
 				}
 
-				#nav > ul > li:hover > a {
+				#nav > ul > li:hover > a{
 					color: #fff;
 				}
 
