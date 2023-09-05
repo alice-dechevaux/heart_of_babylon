@@ -73,7 +73,7 @@ input, select, textarea {
 }
 
 ::-webkit-input-placeholder {
-	text-align: left;
+	text-align: center;
   }
 
 /* Basic */
